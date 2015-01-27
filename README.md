@@ -26,7 +26,7 @@ Chaque tondeuse se d&eacute;place de façon s&eacute;quentielle, ce qui signifie
 Lorsqu'une tondeuse ach&egrave;ve une s&eacute;rie d'instruction, elle communique sa position et son orientation.
 
 OBJECTIF
-Concevoir et &eacute;crire un programme s'ex&eacute;cutant sur une JVM ≥ 1.7 ou un serveur node.js, et impl&eacute;mentant la sp&eacute;cification ci-dessus et passant le test ci-apr&egrave;s
+Concevoir et &eacute;crire un programme s'ex&eacute;cutant sur une JVM ≥ 1.7 ou un serveur node.js, et impl&eacute;mentant la sp&eacute;cification ci-dessus et passant le test ci-apr&egrave;s : 
 
 TEST
 Le fichier suivant est fourni en entr&eacute;e :<br>
